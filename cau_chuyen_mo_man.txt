@@ -1,0 +1,11 @@
+Mốc khởi đầu: 22/11/2026 – 23/11/2026
+Mục tiêu mốc hoàn thiện chuỗi lớn: Cuối năm 2027
+
+Câu chuyện mở màn:
+Hành trình này tiếp nối sau khi đã đưa Lương khô BB702 vào thành một phần của hệ sinh thái Video To Future, hoàn tất lưu trữ trên GitHub, Blog, Hugging Face và Paragraph, hoàn thành văn bản ý chí dành cho con, và có cuộc gọi trao đổi từ phía FPT. Từ nền tảng đó, bắt đầu xây dựng chặng ý tưởng chip bán dẫn và robot đa năng tự vận hành từ con số 0 theo hướng thực tế, tiết kiệm chi phí và giữ quyền kiểm soát bản vẽ gốc. Ban ngày duy trì nhịp bán hàng BB702 để chủ động dòng tiền sống khỏe, buổi tối làm việc từng bước trên các công cụ web nhẹ máy.
+
+Hướng triển khai:
+1. Chốt bài toán và quy tắc thiết kế nền tảng.
+2. Hoàn thiện thiết kế lõi chip, mô phỏng mạch/điều khiển, vẽ bo mạch và khung vỏ.
+3. Khóa mốc tiến độ theo từng chặng trên Blog, GitHub, Hugging Face và Paragraph (chỉ ghi nhận câu chuyện, cột mốc và kết quả tổng quan; giữ kín file gốc).
+4. Làm bản mẫu vật lý chạy thử ngoài thực tế, quay video và ghi nhận dữ liệu thật trước khi đàm phán đơn hàng lớn và sản xuất.
