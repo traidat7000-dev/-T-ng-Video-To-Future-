@@ -1,0 +1,5 @@
+Hành trình khởi động lõi kiến trúc V2F Ball — Từ tầm nhìn đến bước thử nghiệm đầu tiên
+
+Sau thời gian nuôi dưỡng câu chuyện và hệ sinh thái Video To Future, mình bắt đầu bước thử nghiệm đầu tiên cho phần cứng lõi của V2F Ball trên môi trường đám mây: từ một khối tín hiệu tối giản ban đầu đến bản điều phối đa tác vụ song song. Ngay cả khi máy tính gặp sự cố màn hình xanh giữa chừng, toàn bộ nhịp làm việc vẫn được nối lại nhanh chóng.
+
+Với mình, mỗi cột mốc nhỏ hôm nay không chỉ là một bước kỹ thuật mới mà còn là một mảnh ghép câu chuyện để lan tỏa tầm nhìn dài hạn — còn các file thiết kế chi tiết vẫn được giữ kín trong kho lưu trữ riêng của dự án.
